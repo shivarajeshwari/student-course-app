@@ -48,4 +48,4 @@ Gudimetla Shiva Rajeshwari
 
 ---
 
-> This project was built as part of my learning journey and interview preparation. I'm open to feedback and improvements. Thanks for checking it out!
+> This project was built as part of my learning journey. I'm open to feedback and improvements. Thanks for checking it out!
